@@ -8,3 +8,5 @@ description: Adds commands to get random facts about animals!
 commands:
   catfact:
     description: Get a random cat fact!
+  dogfact:
+    description: Get a random dog fact!

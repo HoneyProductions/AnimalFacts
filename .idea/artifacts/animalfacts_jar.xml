@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="animalfacts:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft_Servers/PaperMC/plugins</output-path>
+    <root id="archive" name="animalfacts.jar">
+      <element id="module-output" name="animalfacts" />
+    </root>
+  </artifact>
+</component>
