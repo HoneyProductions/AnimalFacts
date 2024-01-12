@@ -1,0 +1,10 @@
+name: AnimalFacts
+version: '${project.version}'
+main: me.goodbee.animalfacts.AnimalFacts
+api-version: '1.18'
+prefix: AnimalFacts
+authors: [goodbee]
+description: Adds commands to get random facts about animals!
+commands:
+  catfact:
+    description: Get a random cat fact!
